@@ -1,14 +1,14 @@
-#Projeto de Atendimento por WhatsApp com WhatsApp-Web.js
+# Projeto de Atendimento por WhatsApp com WhatsApp-Web.js
 Este é um projeto desenvolvido utilizando a biblioteca whatsapp-web.js para melhorar o atendimento por WhatsApp e torná-lo mais eficiente e direto quando um atendente entrar em contato.
 
-#Como usar o projeto
+# Como usar o projeto
 Clone o repositório em sua máquina local:
 git clone https://github.com/leoangonese/chatbot-whatsapp.git
 
-#Instale as dependências necessárias:
+# Instale as dependências necessárias:
 npm install
 
-Execute o projeto:
+# Execute o projeto:
 
 node index.js
 Aguarde até que o QR Code seja gerado no terminal.
@@ -18,7 +18,7 @@ Abra o WhatsApp no seu smartphone, clique em "Configurações" -> "WhatsApp Web"
 
 Após a autenticação bem-sucedida, você poderá utilizar o chatbot para melhorar o atendimento aos seus clientes por WhatsApp.
 
-#Screenshots
+# Screenshots
 Exemplo de conversa com o chatbot.
 ![App Screenshot](img/1.png)
 ![App Screenshot](img/2.png)
