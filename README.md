@@ -12,7 +12,7 @@ npm install
 
 node index.js
 Aguarde até que o QR Code seja gerado no terminal.
-![App Screenshot](./img/3.png)
+![App Screenshot](3.png)
 
 Abra o WhatsApp no seu smartphone, clique em "Configurações" -> "WhatsApp Web" e escaneie o QR Code exibido no terminal.
 
@@ -20,8 +20,8 @@ Após a autenticação bem-sucedida, você poderá utilizar o chatbot para melho
 
 # Screenshots
 Exemplo de conversa com o chatbot.
-![App Screenshot](img/1.png)
-![App Screenshot](img/2.png)
+![App Screenshot](1.png)
+![App Screenshot](2.png)
 
 # 🛠 Built With
 
