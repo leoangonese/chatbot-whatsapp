@@ -12,7 +12,7 @@ npm install
 
 node index.js
 Aguarde até que o QR Code seja gerado no terminal.
-![App Screenshot](img/3.png)
+![App Screenshot](./img/3.png)
 
 Abra o WhatsApp no seu smartphone, clique em "Configurações" -> "WhatsApp Web" e escaneie o QR Code exibido no terminal.
 
