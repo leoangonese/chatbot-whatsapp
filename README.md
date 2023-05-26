@@ -25,7 +25,7 @@ Exemplo de conversa com o chatbot.
 
 # 🛠 Built With
 
-- <img align="center" alt="java" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/node/php-original.svg](https://plugins.jetbrains.com/files/6098/338769/icon/pluginIcon.png)"> Node JS
+- <img align="center" alt="nodejs" height="30" width="40" src="https://plugins.jetbrains.com/files/6098/338769/icon/pluginIcon.png"> Node JS
 
 # Licença
 
