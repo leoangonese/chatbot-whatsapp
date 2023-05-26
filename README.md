@@ -22,6 +22,7 @@ After successful authentication, you will be able to use the chatbot to improve 
 
 # Screenshots
 Example conversation with the chatbot.
+
 ![App Screenshot](1.png)
 ![App Screenshot](2.png)
 
